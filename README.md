@@ -8,11 +8,27 @@ Features
 
 
 Search Pokémon: Users can search by Pokémon name or ID.
+
+
 Detailed Info: Displays type, base stats, height, weight,
+
+
 Responsive Design: Fully responsive and works well on mobile and desktop devices.
+
+
 Real-time Data: All data is fetched live from the PokéAPI.
+
+
 Technologies Used
+
+
 HTML: Structure of the web pages.
+
+
 CSS: Styling and layout.
+
+
 JavaScript: Fetching data from the API and handling user interactions.
+
+
 PokéAPI: Provides Pokémon data (https://pokeapi.co/).
