@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>Pokedex</title>
+    <style id="style"></style>
+</head>
+<body>
+    <div id="logo"><img id="logo_img" src="assets/images/logo.png" width="50%" ></div>
+    <div id="container">
+    <div id="screen">
+        
+        <div id="img"></div>
+        <div id="list_container">
+            <div id="intro">
+            <input id="input" type="text" name="name">
+            <h1 id="instruction">ENTER POKEMON NAME</h1>
+            </div>
+        <ul id="info_list">
+        <li id="name"></li>
+        <li id="type"></li>
+        <li id="height"></li>
+        <li id="weight"></li>
+        </ul></div>
+    </div>
+    <button id="back" onclick="reload()">
+        <img src="assets/images/arrow.png" width="50px">
+    </button>
+    <button id="enter" onclick="entered()" >
+        <img src="assets/images/enter1.png" height="180px">
+    </button>
+    </div>
+    <script src="api.js"></script>
+</body>
+</html>
