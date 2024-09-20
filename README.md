@@ -1,10 +1,9 @@
-Pokémon Info Website
+POKEMON INFO WEBSITE
 
 
 This project is a simple web application that displays information about Pokémon using the PokéAPI. The app is built using HTML, CSS, and JavaScript, and allows users to search for any Pokémon to view its details such as type, abilities, stats, and more.
 
-Features
-
+FEATURES
 
 
 Search Pokémon: Users can search by Pokémon name or ID.
@@ -19,7 +18,7 @@ Responsive Design: Fully responsive and works well on mobile and desktop devices
 Real-time Data: All data is fetched live from the PokéAPI.
 
 
-Technologies Used
+TECHNOLOGIES USED
 
 
 HTML: Structure of the web pages.
